@@ -1,2 +1,4 @@
 # InternStudio3_notebooks
-书生实战营第三期作业仓库：https://github.com/InternLM/Tutorial
+基于InternLM的实战项目仓库。
+
+项目来源于：https://github.com/InternLM/Tutorial
